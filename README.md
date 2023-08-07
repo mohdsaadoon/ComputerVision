@@ -2,9 +2,8 @@
 
 
 
-## Overview
 
-This repository contains a special collection of Python notebooks I've curated on my incredible journey to develop a robust skill set in image processing and computer vision.
+The repository contains a special collection of Python notebooks I've curated on my incredible journey to develop a robust skill set in image processing and computer vision.
 
 I've always been fascinated by the magic of computer vision – how machines can interpret and understand the visual world as we humans do. As I delved into this captivating field, I encountered numerous challenges and exciting concepts that opened my eyes to the vast possibilities of image processing.
 
