@@ -17,5 +17,5 @@ Whether you're a curious beginner eager to explore the wonders of computer visio
 
 The repository is structured into the following folders:
 
-1. `Image-Processing`: This folder contains notebooks covering fundamental image processing techniques, including convolutions, color space conversion, image thresholding, morphological operations, and smoothing and blurring.
-2. `OpenCV_surgery`: In this folder, you'll find notebooks demonstrating basic computer vision operations, such as image loading, resizing, interpolation, text drawing, grayscale conversion, translation, rotation, flipping, cropping, image arithmetic, and splitting & merging channels.
+1. [Image-Processing](https://github.com/mohdsaadoon/ComputerVision/tree/main/Image-Processing): This folder contains notebooks covering fundamental image processing techniques, including convolutions, color space conversion, image thresholding, morphological operations, and smoothing and blurring.
+2. [OpenCV_surgery](https://github.com/mohdsaadoon/ComputerVision/tree/main/OpenCV_Surgery): In this folder, you'll find notebooks demonstrating basic computer vision operations, such as image loading, resizing, interpolation, text drawing, grayscale conversion, translation, rotation, flipping, cropping, image arithmetic, and splitting & merging channels.
