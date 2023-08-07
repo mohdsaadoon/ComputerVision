@@ -1,4 +1,4 @@
-# COMPUTER VISION: OpenCV Surgery -: Basics Techniques of OpenCV
+# COMPUTER VISION: OpenCV Surgery - Basics Techniques of OpenCV
 
 OpenCV Surgery! This series aims to provide a comprehensive guide to mastering the basic techniques of OpenCV. This series covers various topics, from image loading to channel splitting and merging.
 
