@@ -19,3 +19,13 @@ The repository is structured into the following folders:
 
 1. [Image-Processing](https://github.com/mohdsaadoon/ComputerVision/tree/main/Image-Processing): This folder contains notebooks covering fundamental image processing techniques, including convolutions, color space conversion, image thresholding, morphological operations, and smoothing and blurring.
 2. [OpenCV_surgery](https://github.com/mohdsaadoon/ComputerVision/tree/main/OpenCV_Surgery): In this folder, you'll find notebooks demonstrating basic computer vision operations, such as image loading, resizing, interpolation, text drawing, grayscale conversion, translation, rotation, flipping, cropping, image arithmetic, and splitting & merging channels.
+
+
+## Installation
+
+To run the notebooks in this repository, you must install Python and Jupyter Notebooks on your system. Additionally, you'll need the following libraries:
+
+- OpenCV
+- NumPy
+- Matplotlib
+- imutils
